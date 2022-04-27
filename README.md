@@ -11,7 +11,7 @@ Hey 👋🏻,
 I am a senior full-stack engineer with 8 years of hands on experience.
 
 My Proficient Skills: 
- - Frontend: React & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Svelte, Solid.js, Angular, UI Frameworks(MUI, AntD, ...), Tailwind
+ - Frontend: React & Redux(Saga/Thunk/Slice/Mobx), Next.js, Angular/AngularJS, Vue.js, Svelte, Solid.js, UI Frameworks(MUI, AntD, ...), TailwindCSS
  - Backend: Django & Django Restframework, Node.js, Express.js, Nest, Laravel
  - Mobile: React Native, Ionic, Android(Java)
  - Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Cloudflare(Pages, Workers, ...), Firebase, Heroku, Netlify, Vercel, ...
