@@ -1,7 +1,7 @@
 ![alt README header](https://raw.githubusercontent.com/versa-dev/versa-dev/master/assets/header.png)
 ![GitHub Views](https://komarev.com/ghpvc/?username=versa-dev&color=FAC151)
+[![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/versa-dev)
 [![typescript](https://img.shields.io/badge/NodeJS-Expert-FAC151.svg?logo=node.js&logoWidth=20)](https://github.com/versa-dev)
-[![typescript](https://img.shields.io/badge/Node-Expert-FAC151.svg?logo=node&logoWidth=20)](https://github.com/versa-dev)
 [![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/versa-dev)
 ## Senior Full-Stack Engineer
 
