@@ -11,9 +11,10 @@ Hey 👋🏻,
 I am a senior full-stack engineer with 8 years of hands on experience.
 
 My Proficient Skills: 
- - Frontend: React/Next, Angular/AngularJS, Vue/Nuxt, Svelte, Solid.js, Redux, UI Frameworks(MUI, AntD, Radix UI, ...), TailwindCSS
- - Backend: Node.js, Express.js, Feather.js, Nest, GraphQL, Django, Flask, Laravel
- - Mobile: React Native, Ionic, Android(Java)
+ - Frontend: React/Next, Angular/AngularJS, Vue/Nuxt, Svelte, Solid.js, Redux, UI library(MUI, AntD, Radix, Chakra, ...), TailwindCSS
+ - Backend: Node.js, Express.js, Nest, Feather.js, GraphQL, Django, Flask, Laravel, Prisma, TypeORM, PostgreSQL, MySQL, MongoDB
+ - Mobile: React Native, Ionic, Android
+ - Testing: Jest, Cypress, Mocha, Chai, Enzyme
  - Devops: AWS, Cloudflare, Firebase, Heroku, Netlify, Vercel, ...
  - Project Manangement & Version Control: Jira, Asana, Trello, Teams, Notion, Github, Bitbucket, Gitlab
  - Experience in developing Dapp, Web3.js, Smart Contract
