@@ -8,7 +8,7 @@
 Hey 👋🏻,
 
 
-I am a senior full-stack engineer with 8 years of hands on experience.
+I am a senior full-stack engineer with 9 years of experience.
 
 My Proficient Skills: 
  - Frontend: React/Next, Angular/AngularJS, Vue/Nuxt, Svelte, Solid.js, Redux, UI library(MUI, AntD, Radix, Chakra, ...), TailwindCSS
@@ -18,7 +18,7 @@ My Proficient Skills:
  - Cloud Services: AWS, Cloudflare, Azure, Firebase, Heroku, Supabase, Vercel, Netlify, Railway, ...
  - Project Manangement & Version Control: Jira, Asana, Trello, Teams, Notion, Github, Bitbucket, Gitlab
  - Experience in developing Dapp, Web3.js, Smart Contract
- - Others: Mathematics, Strong Algorithms, Data Science, Machine Learning
+ - Others: Bot Development(Slack, Discord, Telegram ...), Chrome Extension, Machine Learning, Strong Algorithms and Mathematics, Proficient Verbal & Writing English
 
 
 ## My Skill Set:
