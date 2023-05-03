@@ -15,7 +15,7 @@ My Proficient Skills:
  - Backend: Node.js, Express.js, Nest, Feather.js, GraphQL, Django, Flask, Laravel, Prisma, TypeORM, PostgreSQL, MySQL, MongoDB
  - Mobile: React Native, Ionic, Android
  - Testing: Jest, Cypress, Mocha, Chai, Enzyme
- - Devops: AWS, Cloudflare, Firebase, Heroku, Netlify, Vercel, ...
+ - Cloud Services: AWS, Cloudflare, Azure, Firebase, Heroku, Supabase, Vercel, Netlify, Railway, ...
  - Project Manangement & Version Control: Jira, Asana, Trello, Teams, Notion, Github, Bitbucket, Gitlab
  - Experience in developing Dapp, Web3.js, Smart Contract
  - Others: Mathematics, Strong Algorithms, Data Science, Machine Learning
