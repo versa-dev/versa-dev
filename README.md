@@ -78,7 +78,6 @@ My Proficient Skills:
 
 ## 📬 Get in Touch
 
-
-- Email:  mailto:zhaoping.dev@gmail.com
-- Skype:  https://join.skype.com/invite/VsuSSsTKuntZ
-- Discord:  https://discord.gg/3TNTvB7unX
+- Email: [zhaoping.dev@gmail.com](mailto:zhaoping.dev@gmail.com)
+- Skype: [Skype Profile](https://join.skype.com/invite/VsuSSsTKuntZ)
+- Discord: [Discord Server](https://discord.gg/3TNTvB7unX)
