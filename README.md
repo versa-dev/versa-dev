@@ -63,7 +63,7 @@ My Proficient Skills:
 
 <p align="center">
 	<a href="https://github.com/versa-dev">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=versa-dev" />
+		[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=versa-dev&theme=onedark&margin-w=15&no-bg=true&no-frame=true&count_private=true)](https://github.com/versa-dev)
 	</a>
 </p>
 <p align="center">
