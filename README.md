@@ -71,7 +71,7 @@ My Proficient Skills:
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=versa-dev&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
 	</a>
 	<a href="https://github.com/versa-dev">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=versa-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=versa-dev&show_icons=true&theme=onedark&no-bg=true&include_all_commits=true&count_private=true" />
 	</a>
 </p>
 
