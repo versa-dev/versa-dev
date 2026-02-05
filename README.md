@@ -6,7 +6,7 @@
 [![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/versa-dev)
 # Senior Full-Stack & AI Engineer 🧠⚡
 
-**9+ Years of Engineering Excellence | Full-Stack Architect | AI & Web3 Specialist**
+**12+ Years of Engineering Excellence | Full-Stack Architect | AI & Web3 Specialist**
 
 I specialize in bridging the gap between robust software engineering and cutting-edge Artificial Intelligence. With nearly a decade of experience, I build scalable distributed systems, high-performance frontends, and intelligent applications powered by LLMs and autonomous agents.
 
