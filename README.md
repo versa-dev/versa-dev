@@ -49,5 +49,5 @@ I specialize in bridging the gap between robust software engineering and cutting
 
 ## 📬 Get in Touch
 
-- Email: [tothefuture1117@gmail.com](mailto:tothefuture1117@gmail.com)
+- Email: [versa-17@outlook.com](mailto:versa-17@outlook.com)
 - Discord: [Discord Server](https://discord.gg/3TNTvB7unX)
