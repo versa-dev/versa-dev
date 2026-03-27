@@ -49,4 +49,4 @@ I specialize in bridging the gap between robust software engineering and cutting
 
 ## 📬 Get in Touch
 
-- Telegram: [Telegram](https://t.me/versa_dev)
+- Telegram: [Versa_dev](https://t.me/versa_dev)
