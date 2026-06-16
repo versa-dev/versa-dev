@@ -22,7 +22,7 @@ I specialize in bridging the gap between robust software engineering and cutting
 *   **Frontend:** React/Next.js, Angular, Vue/Nuxt, Svelte, Solid.js.
    
     (**Styling & UI:** TailwindCSS, MUI, Ant Design, Radix UI, Chakra UI.)
-*   **Backend:** Node.js (NestJS, Express, Feathers), Python (Django, Flask), PHP (Laravel).
+*   **Backend:** Node.js (NestJS, Express, Feathers), C# (.Net), Python (Django, Flask), PHP (Laravel).
 *   **Database/ORM:** PostgreSQL, MySQL, MongoDB, Prisma, TypeORM.
 *   **Cloud & Infrastructure:** AWS, Azure, Cloudflare, Vercel, Supabase, Firebase, Railway.
 *   **Mobile:** React Native, Ionic, Android (Java/Kotlin).
